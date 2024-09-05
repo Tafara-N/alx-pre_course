@@ -42,7 +42,7 @@ Vi is included with almost every Linux distribution.
 
 How do you quit Vi?
 
-- [] `:q<Return>`
+- [ ] `:q<Return>`
 
 - `<ESC>`
 
