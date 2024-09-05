@@ -162,7 +162,7 @@ root@896cf839cf9a:/`alx-zero_day`#
 
 - Create the file `README.md` with the content `My first readme`. [Tips](https://forum.howtoforge.com/threads/echo-into-a-file.115/)
 
-```
+```bash
 root@896cf839cf9a:/`alx-zero_day`# echo 'My first readme' > README.md
 root@896cf839cf9a:/`alx-zero_day`# cat README.md
 My first readme
@@ -170,14 +170,14 @@ My first readme
 
 - Update your git identity
 
-```
+```bash
 root@896cf839cf9a:/alx-pre_course# git config --global user.email "you@example.com"
 root@896cf839cf9a:/alx-pre_course# git config --global user.name "Your Name"
 ```
 
 - Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
 
-```
+```bash
 root@896cf839cf9a:/`alx-zero_day`# git add .
 root@896cf839cf9a:/`alx-zero_day`# git commit -m 'My first commit'
 [master (root-commit) 98eef93] My first commit
