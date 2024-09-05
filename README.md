@@ -97,6 +97,7 @@ What command can you use to see what changes have been staged, which haven’t, 
 ### 0. Create and setup your Git and GitHub account
 
 **Step 0 - Create an account on GitHub [if you do not have one already]**
+
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/)
 
 **Step 1 - Create a Personal Access Token on Github**
@@ -104,6 +105,10 @@ You will need a GitHub account for all your projects at ALX. If you do not alrea
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
 You can follow [this tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to create a token.
+
+Once it’s created, you should have a token that looks like this:
+
+![Access Token](access_token.png)
 
 **Step 2 - Update your profile on the Intranet**
 
@@ -113,37 +118,44 @@ Update your Intranet profile by adding your Github username [here](https://intra
 
 **Step 3 - Create your first repository**
 
-Using the graphic interface on the [github website](https://intranet.alxswe.com/rltoken/1vpH3ScWYjfgZD0J59jusA), create your first repository.
+Using the graphic interface on the [github website](https://github.com/), create your first repository.
 
 - Name: `alx-zero_day`
 - Description: `I'm now a ALX Student, this is my first repository as a full-stack engineer`
 - Public repo
 - No `README`, `.gitignore`, or license
 
-### Step 4 - Open the sandbox
-On the intranet, just under the task, click on the button `Get a sandbox` and run to start the machine.
+![GitHub](github.png)
+
+**Step 4 - Open the sandbox**
+
+On the intranet, just under the task, click on the button `Get a sandbox` and `run` to start the machine.
 
 Once the container is started, click on `Webterm` to open a shell where you can start work from.
 
-### Step 5 - Clone your repository
+**Step 5 - Clone your repository**
+
 On the webterm of the sandbox, do the following:
 
 - Clone your repository
 
-```
+```bash
 root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/`alx-zero_day`.git
 Cloning into '`alx-zero_day`'...
 warning: You appear to have cloned an empty repository.
 ```
 
-## Replace {YOUR_PERSONAL_TOKEN} with your token from step 1
-## Replace {YOUR_USERNAME} with your username from step 0 and 1
+**Replace {YOUR_PERSONAL_TOKEN} with your token from step 1**
+
+**Replace {YOUR_USERNAME} with your username from step 0 and 1**
+
 **Pro-Tip:** On windows, use CTRL + A + V to paste in the web terminal
-## Step 6 - Create the README.md and push the modifications
 
-- Navigate to this new directory. [Tips](https://intranet.alxswe.com/rltoken/qSP5HcBSSIL0U23PdIGKLw)
+**Step 6 - Create the README.md and push the modifications**
 
-```
+- Navigate to this new directory. [Tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
+
+```bash
 root@896cf839cf9a:/# cd `alx-zero_day`/
 root@896cf839cf9a:/`alx-zero_day`#
 ```
