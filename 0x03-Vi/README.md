@@ -1,14 +1,17 @@
-Another text editor
-After Emacs, it’s time to play with Vi.
+# Another text editor
 
-Resources
-Read or watch:
+After **Emacs**, it’s time to play with **Vi**.
 
-Basic vi Commands
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+# Resources
 
-General
+**Read or watch:**
+
+- [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-technique/), **without the help of Google:**
+
+## General
 What is vi
 Who is Bill Joy
 How to start and exit vi
