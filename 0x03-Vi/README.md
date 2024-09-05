@@ -44,29 +44,29 @@ How do you quit Vi?
 
 - [ ] `:q<Return>`
 
-- `<ESC>`
+- [ ] `<ESC>`
 
-- `q`
+- [ ] `q`
 
 ### Question #2
 
 How do you enter Command Mode in Vi?
 
-- `Ctrl / Command + C`
+- [ ] `Ctrl / Command + C`
 
-- `<ESC>`
+- [ ] `<ESC>`
 
-- `<Return>`
+- [ ] `<Return>`
 
 ### Question #3
 
 How do you enter Insert Mode in Vi?
 
-- `<Insert>`
+- [ ] `<Insert>`
 
-- `<Return>`
+- [ ] `<Return>`
 
-- `i`
+- [ ] `i`
 
 ## Tasks
 
