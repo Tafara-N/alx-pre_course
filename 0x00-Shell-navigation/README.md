@@ -44,8 +44,148 @@ Any form of plagiarism is strictly forbidden and will result in removal from the
 Requirements
 All tasks must be done inside the sandbox Ubuntu 20.04
 Your sandbox must be available at the end of this project - the Checker will access to it at midnight for running the correction!
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
+
+## Quiz questions
+
+### Question #0
+
+Which command should you use to delete a file (or directory if additional argument)?
+
+- `cp`
+
+- `rmdir`
+
+- `mv`
+
+- `mkdir`
+
+- `rm`
+
+### Question #1
+
+Which command should you use to create a directory?
+
+- `mkdir`
+
+- `rmdir`
+
+- `rm`
+
+- `cp`
+
+- `mv`
+
+### Question #2
+
+Which command should you use to display the current path of your current directory?
+
+- `less`
+
+- `pwd`
+
+- `cd`
+
+- `touch`
+
+- `ls`
+
+### Question #3
+
+Which command should you use to display the content of a file?
+
+- `touch`
+
+- `pwd`
+
+- `less`
+
+- `ls`
+
+- `cd`
+
+### Question #4
+
+Which command should you use to list all files of your current directory?
+
+- `touch`
+
+- `pwd`
+
+- `ls`
+
+- `less`
+
+- `cd`
+
+### Question #5
+
+Which command should you use to delete a directory?
+
+- `rmdir`
+
+- `cp`
+
+- `mv`
+
+- `mkdir`
+
+- `rm`
+
+### Question #6
+
+Which command should you use to change directory?
+
+- `cd`
+
+- `touch`
+
+- `ls`
+
+- `less`
+
+- `pwd`
+
+### Question #7
+
+Which command should you use to create an empty file?
+
+- `ls`
+
+- `pwd`
+
+- `touch`
+
+- `less`
+
+- `cd`
+
+### Question #8
+
+Which command should you use to rename or move a file (or directory)?
+
+- `rmdir`
+
+- `cp`
+
+- `mv`
+
+- `mkdir`
+
+- `rm`
+
+### Question #9
+
+Which command should you use to copy a file (or directory if additional argument)?
+
+- `rmdir`
+
+- `mkdir`
+
+- `rm`
+
+- `cp`
+
+- `mv`
 
 ## Tasks
 
