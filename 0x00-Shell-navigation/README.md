@@ -46,18 +46,20 @@ All tasks must be done inside the sandbox Ubuntu 20.04
 Your sandbox must be available at the end of this project - the Checker will access to it at midnight for running the correction!
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. Create me!
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+
+## Tasks
+
+### 0. Create me!
+
 Access your sandbox and:
 
-Change your working directory to /root
-Then, create an empty file so_cool
-Advices:
+- Change your working directory to `/root`
+- Then, create an empty file `so_cool`
 
-Don’t forget to validate your current working directory
-Don’t forget to display the list of files of your current directory to validate the creation of the new file
+**Advices:**
+
+- Don’t forget to validate your current working directory
+- Don’t forget to display the list of files of your current directory to validate the creation of the new file
 
 ### 1. More of me
 
