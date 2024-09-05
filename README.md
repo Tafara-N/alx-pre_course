@@ -17,7 +17,7 @@
 
  ## Resources for advanced tasks (**Read only after finishing the mandatory tasks**)
 - [Learning branching](https://learngitbranching.js.org/)
-- [Effective pull requests and other good practices for teams using GitHub](https://intranet.alxswe.com/rltoken/mjpQ9OCU0Dz-DFxZjASEJg)
+- [Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/jj0uPL9hiKF10KCH4u620A), **without the help of Google:**
