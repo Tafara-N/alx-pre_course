@@ -102,7 +102,7 @@ You will need a GitHub account for all your projects at ALX. If you do not alrea
 ### Step 1 - Create a Personal Access Token on Github
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
-You can follow [this tutorial](https://intranet.alxswe.com/rltoken/coQUsDnam4suGaXSVinQxA) to create a token.
+You can follow [this tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to create a token.
 
 ### Step 3 - Create your first repository
 Using the graphic interface on the [github website](https://intranet.alxswe.com/rltoken/1vpH3ScWYjfgZD0J59jusA), create your first repository.
