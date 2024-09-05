@@ -231,7 +231,6 @@ For the moment we have an empty project directory containing only a README.md. I
 - Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
 
 **Repo:**
-
 - GitHub repository: `alx-zero_day`
 - Directory: `0x03-git`
 - File: `bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js`
