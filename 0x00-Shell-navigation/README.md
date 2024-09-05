@@ -53,141 +53,141 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 Which command should you use to delete a file (or directory if additional argument)?
 
-- `cp`
+- [ ] `cp`
 
-- `rmdir`
+- [ ] `rmdir`
 
-- `mv`
+- [ ] `mv`
 
-- `mkdir`
+- [ ] `mkdir`
 
-- `rm`
+- [ ] `rm`
 
 ### Question #1
 
 Which command should you use to create a directory?
 
-- `mkdir`
+- [ ] `mkdir`
 
-- `rmdir`
+- [ ] `rmdir`
 
-- `rm`
+- [ ] `rm`
 
-- `cp`
+- [ ] `cp`
 
-- `mv`
+- [ ] `mv`
 
 ### Question #2
 
 Which command should you use to display the current path of your current directory?
 
-- `less`
+- [ ] `less`
 
-- `pwd`
+- [ ] `pwd`
 
-- `cd`
+- [ ] `cd`
 
-- `touch`
+- [ ] `touch`
 
-- `ls`
+- [ ] `ls`
 
 ### Question #3
 
 Which command should you use to display the content of a file?
 
-- `touch`
+- [ ] `touch`
 
-- `pwd`
+- [ ] `pwd`
 
-- `less`
+- [ ] `less`
 
-- `ls`
+- [ ] `ls`
 
-- `cd`
+- [ ] `cd`
 
 ### Question #4
 
 Which command should you use to list all files of your current directory?
 
-- `touch`
+- [ ] `touch`
 
-- `pwd`
+- [ ] `pwd`
 
-- `ls`
+- [ ] `ls`
 
-- `less`
+- [ ] `less`
 
-- `cd`
+- [ ] `cd`
 
 ### Question #5
 
 Which command should you use to delete a directory?
 
-- `rmdir`
+- [ ] `rmdir`
 
-- `cp`
+- [ ] `cp`
 
-- `mv`
+- [ ] `mv`
 
-- `mkdir`
+- [ ] `mkdir`
 
-- `rm`
+- [ ] `rm`
 
 ### Question #6
 
 Which command should you use to change directory?
 
-- `cd`
+- [ ] `cd`
 
-- `touch`
+- [ ] `touch`
 
-- `ls`
+- [ ] `ls`
 
-- `less`
+- [ ] `less`
 
-- `pwd`
+- [ ] `pwd`
 
 ### Question #7
 
 Which command should you use to create an empty file?
 
-- `ls`
+- [ ] `ls`
 
-- `pwd`
+- [ ] `pwd`
 
-- `touch`
+- [ ] `touch`
 
-- `less`
+- [ ] `less`
 
-- `cd`
+- [ ] `cd`
 
 ### Question #8
 
 Which command should you use to rename or move a file (or directory)?
 
-- `rmdir`
+- [ ] `rmdir`
 
-- `cp`
+- [ ] `cp`
 
-- `mv`
+- [ ] `mv`
 
-- `mkdir`
+- [ ] `mkdir`
 
-- `rm`
+- [ ] `rm`
 
 ### Question #9
 
 Which command should you use to copy a file (or directory if additional argument)?
 
-- `rmdir`
+- [ ] `rmdir`
 
-- `mkdir`
+- [ ] `mkdir`
 
-- `rm`
+- [ ] `rm`
 
-- `cp`
+- [ ] `cp`
 
-- `mv`
+- [ ] `mv`
 
 ## Tasks
 
