@@ -28,7 +28,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to cancel half-entered commands
 - How to quit Emacs
 
-# Requirements
+## Requirements
 - All tasks **must be** done inside the sandbox `Ubuntu 20.04`
 - Your sandbox **must be available at the end of this project** - the Checker will access to it at midnight for running the correction!
 - The answer of a task must be in a specific file
