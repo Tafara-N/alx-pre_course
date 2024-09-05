@@ -59,17 +59,17 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the creation of the new file
 
-1. More of me
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. More of me
+
 Access your sandbox and:
 
-Change your working directory to /root
-Then, copy the file school to /tmp
-Advices:
+- Change your working directory to `/root`
+- Then, copy the file `school` to `/tmp`
 
-Don’t forget to validate your current working directory
-Don’t forget to display the list of files of your current directory to validate the copy of the file
+**Advices:**
+
+- Don’t forget to validate your current working directory
+- Don’t forget to display the list of files of your current directory to validate the copy of the file
 
 ### 2. Too old
 
