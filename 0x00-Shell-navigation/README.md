@@ -83,17 +83,17 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the renaming of the file
 
-3. Not here
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 3. Not here
+
 Access your sandbox and:
 
-Change your working directory to /root
-Then, move the file not_here to /tmp/right_school
-Advices:
+- Change your working directory to `/root`
+- Then, move the file   not_here   to `/tmp/right_school`
 
-Don’t forget to validate your current working directory
-Don’t forget to display the list of files of your current directory to validate the move of the file
+**Advices:**
+
+- Don’t forget to validate your current working directory
+- Don’t forget to display the list of files of your current directory to validate the move of the file
 
 ### 4. Not anymore
 
