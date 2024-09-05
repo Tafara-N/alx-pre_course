@@ -79,8 +79,8 @@ You’ve edited `0-test` and you want to add it to your GitHub repo. What is the
 
 - [ ] git add 0-test
 
-Tips:
-You should learn what each of these commands would actually do if you were to execute them!
+> Tips:
+> You should learn what each of these commands would actually do if you were to execute them!
 
 ## Question #1
 
