@@ -95,17 +95,16 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the move of the file
 
-4. Not anymore
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 4. Not anymore
+
 Access your sandbox and:
 
-Change your working directory to /root
-Then, delete the file ready_to_be_removed
-Advices:
+- Change your working directory to `/root`
+- Then, delete the file `ready_to_be_removed`
 
-Don’t forget to validate your current working directory
-Don’t forget to display the list of files of your current directory to validate the removal of the file
+**Advices:**
+- Don’t forget to validate your current working directory
+- Don’t forget to display the list of files of your current directory to validate the removal of the file
 
 ### 5. Organization is key!
 
