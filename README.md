@@ -11,7 +11,7 @@
 # Resources
 
 ## Read or watch:
-- [Resources to learn Git](https://intranet.alxswe.com/rltoken/fq9RPlPS5IdYzOWTvwbdFQ)
+- [Resources to learn Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
 - [About READMEs](https://intranet.alxswe.com/rltoken/R7MeJ8alpK3JoVF8w24wiQ)
 - [How to write a Git commit message](https://intranet.alxswe.com/rltoken/FYsjjR-97Hk4NJtgqzWdtQ)
 
