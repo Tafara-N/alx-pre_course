@@ -1,23 +1,25 @@
-### Concepts
+# Concepts
+
 *For this project, we expect you to look at these concepts:*
 
-- [Authenticating Git](https://intranet.alxswe.com/concepts/100035)
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
+- [Authenticating Git](https://intranet.alxswe.com/concepts/100035)
 - [Source code management](https://intranet.alxswe.com/concepts/22)
 - [Right-engineering, right-documenting](https://intranet.alxswe.com/concepts/6)
 - [Git and Github cheat sheet - Everything in less than 30 seconds](https://intranet.alxswe.com/concepts/57)
 
-## Resources  
+# Resources
+
 ## Read or watch:
 - [Resources to learn Git](https://intranet.alxswe.com/rltoken/fq9RPlPS5IdYzOWTvwbdFQ)
 - [About READMEs](https://intranet.alxswe.com/rltoken/R7MeJ8alpK3JoVF8w24wiQ)
 - [How to write a Git commit message](https://intranet.alxswe.com/rltoken/FYsjjR-97Hk4NJtgqzWdtQ)
 
-**Resources for advanced tasks** (Read only after finishing the mandatory tasks):
+ ## Resources for advanced tasks (**Read only after finishing the mandatory tasks**)
 - [Learning branching](https://intranet.alxswe.com/rltoken/tN8ZJ0yWubOP6jdciqtrFw)
 - [Effective pull requests and other good practices for teams using GitHub](https://intranet.alxswe.com/rltoken/mjpQ9OCU0Dz-DFxZjASEJg)
 
-## Learning Objectives  
+## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/jj0uPL9hiKF10KCH4u620A), **without the help of Google:**
 
 ## General
@@ -37,14 +39,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to work as collaborators on a project
 - Which files should and which files should not appear in your repo
 
-## Requirements  
+# Requirements
+
 ## General
 - A `README.md` file at the root of the `alx-zero_day` repo, containing a description of the repository
 - A `README.md` file, at the root of the folder of this project (i.e. `0x03-git`), describing what this project is about
 - **Do not use GitHub’s web UI**, but the command line to perform the exercise (except for operations that can not possibly be done any other way than through the web UI). You won’t be able to perform many of the task requirements on the web UI, and you should start getting used to the command line for simple tasks because many complex tasks can only be done via the command line.
 - Your answer files should only contain the command, and nothing else
 
-## More Info  
+# More Info
+
 ## Basic usage
 At the end of this project you should be able to reproduce and understand these command lines:
 
@@ -62,7 +66,7 @@ $ git push origin main
 
 You have the following files in your project directory:
 
-```
+```bash
 julien@ubuntu:/tmp/git_project$ ls
 0-test  0-test~ #0-test# file1  file2
 ```
@@ -92,15 +96,15 @@ What command can you use to see what changes have been staged, which haven’t, 
 
 ### 0. Create and setup your Git and GitHub account
 
-### Step 0 - Create an account on GitHub [if you do not have one already]  
+### Step 0 - Create an account on GitHub [if you do not have one already]
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://intranet.alxswe.com/rltoken/1vpH3ScWYjfgZD0J59jusA)
 
-### Step 1 - Create a Personal Access Token on Github  
+### Step 1 - Create a Personal Access Token on Github
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
 You can follow [this tutorial](https://intranet.alxswe.com/rltoken/coQUsDnam4suGaXSVinQxA) to create a token.
 
-### Step 3 - Create your first repository  
+### Step 3 - Create your first repository
 Using the graphic interface on the [github website](https://intranet.alxswe.com/rltoken/1vpH3ScWYjfgZD0J59jusA), create your first repository.
 
 - Name: `alx-zero_day`
@@ -108,25 +112,25 @@ Using the graphic interface on the [github website](https://intranet.alxswe.com/
 - Public repo
 - No `README`, `.gitignore`, or license
 
-### Step 4 - Open the sandbox  
+### Step 4 - Open the sandbox
 On the intranet, just under the task, click on the button `Get a sandbox` and run to start the machine.
 
 Once the container is started, click on `Webterm` to open a shell where you can start work from.
 
-### Step 5 - Clone your repository  
+### Step 5 - Clone your repository
 On the webterm of the sandbox, do the following:
 
 - Clone your repository
 
 ```
-root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/`alx-zero_day`.git                  
+root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/`alx-zero_day`.git
 Cloning into '`alx-zero_day`'...
 warning: You appear to have cloned an empty repository.
 ```
 
-## Replace {YOUR_PERSONAL_TOKEN} with your token from step 1  
-## Replace {YOUR_USERNAME} with your username from step 0 and 1  
-**Pro-Tip:** On windows, use CTRL + A + V to paste in the web terminal  
+## Replace {YOUR_PERSONAL_TOKEN} with your token from step 1
+## Replace {YOUR_USERNAME} with your username from step 0 and 1
+**Pro-Tip:** On windows, use CTRL + A + V to paste in the web terminal
 ## Step 6 - Create the README.md and push the modifications
 
 - Navigate to this new directory. [Tips](https://intranet.alxswe.com/rltoken/qSP5HcBSSIL0U23PdIGKLw)
@@ -139,8 +143,8 @@ root@896cf839cf9a:/`alx-zero_day`#
 - Create the file `README.md` with the content `My first readme`. [Tips](https://intranet.alxswe.com/rltoken/_SSotigVtvVNThTVLJKZPQ)
 
 ```
-root@896cf839cf9a:/`alx-zero_day`# echo 'My first readme' > README.md                                                                 
-root@896cf839cf9a:/`alx-zero_day`# cat README.md                                                                                      
+root@896cf839cf9a:/`alx-zero_day`# echo 'My first readme' > README.md
+root@896cf839cf9a:/`alx-zero_day`# cat README.md
 My first readme
 ```
 
@@ -159,12 +163,12 @@ root@896cf839cf9a:/`alx-zero_day`# git commit -m 'My first commit'
 [master (root-commit) 98eef93] My first commit
  1 file changed, 1 insertion(+)
  create mode 100644 README.md
-root@896cf839cf9a:/`alx-zero_day`# git push                                                                                           
-Enumerating objects: 3, done.                                                                                                         
-Counting objects: 100% (3/3), done.                                                                                                   
-Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.                                                                          
-Total 3 (delta 0), reused 0 (delta 0)                                                                                                 
-To https://github.com/{YOUR_USERNAME}/`alx-zero_day`.git                                                                                       
+root@896cf839cf9a:/`alx-zero_day`# git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/{YOUR_USERNAME}/`alx-zero_day`.git
  * [new branch]      master -> master
 ```
 
