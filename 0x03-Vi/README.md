@@ -21,7 +21,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to search forward and backward
 - How to undo
 - How to quit vi
-- from the program.
 
 ## Requirements
 - All tasks **must be** done inside the sandbox `Ubuntu 20.04`
