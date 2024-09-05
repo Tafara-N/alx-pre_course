@@ -12,7 +12,7 @@
 
 ## Read or watch:
 - [Resources to learn Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
-- [About READMEs](https://intranet.alxswe.com/rltoken/R7MeJ8alpK3JoVF8w24wiQ)
+- [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [How to write a Git commit message](https://intranet.alxswe.com/rltoken/FYsjjR-97Hk4NJtgqzWdtQ)
 
  ## Resources for advanced tasks (**Read only after finishing the mandatory tasks**)
