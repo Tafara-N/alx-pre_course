@@ -1,16 +1,19 @@
-Congrats!
+# Congrats!
+
 Now you know how to navigate into a Unix system!
 
-It’s time to test and decide what will be your favorite text editor on your sandbox: Emacs or Vi.
+It’s time to test and decide what will be your favorite text editor on your sandbox: **Emacs** or **Vi**.
 
-During this project you will play with Emacs.
+During this project you will play with **Emacs**.
 
-Resources
-Read or watch:
+# Resources
 
-A Guided Tour of Emacs
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+**Read or watch:**
+
+- [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-technique/), **without the help of Google:**
 
 General
 What is Emacs
@@ -24,18 +27,52 @@ How to invoke commands by name
 How to undo
 How to cancel half-entered commands
 How to quit Emacs
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-All tasks must be done inside the sandbox Ubuntu 20.04
-Your sandbox must be available at the end of this project - the Checker will access to it at midnight for running the correction!
-The answer of a task must be in a specific file
-Each answer file must contain only the command to execute in Emacs for solving the task. Example: “What is the command to write buffer to a specified file?” -> the file should contain only C-x C-w
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
+
+# Requirements
+- All tasks **must be** done inside the sandbox `Ubuntu 20.04`
+- Your sandbox **must be available at the end of this project** - the Checker will access to it at midnight for running the correction!
+- The answer of a task must be in a specific file
+- Each answer file must contain only the command to execute in Emacs for solving the task. Example: “What is the command to write buffer to a specified file?” -> the file should contain only `C-x C-w`
+
+## Quiz questions
+
+### Question #0
+
+In Emacs’ documentation, what does `C` in a shortcut command stand for?
+
+- [ ] Command
+
+- [ ] Ctrl
+
+- [ ] Shift + C
+
+### Question #1
+
+You can only have one buffer open in Emacs at a time.
+
+- [ ] False
+
+- [ ] True
+
+### Question #2
+
+In Emacs’ documentation, what does `M` in a shortcut command stand for?
+
+Select all correct answers
+
+- [ ] Alt
+
+- [ ] Shift + M
+
+- [ ] Meta
+
+### Question #3
+
+In Emacs, a buffer is an object that a file’s text is held in.
+
+- [ ] False
+
+- [ ] True
 
 ## Tasks
 
