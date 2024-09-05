@@ -252,7 +252,7 @@ For this project, create a branch `update_script` and in this branch:
 - Update bash/alx by replacing `echo "ALX"` with `echo "ALX School"`
 - Update bash/school by replacing echo "School" with `echo "The school is open!"`
 - Add and commit these changes (message: “My personal work”)
-- Push this new branch [Tips](https://intranet.alxswe.com/rltoken/tN31xFfDVctixZZ350tDGw)
+- Push this new branch [Tips](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 
 Perfect! You did an amazing update in your project and it’s isolated correctly from the **main** branch.
 
