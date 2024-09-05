@@ -23,9 +23,10 @@ man mv
 man rm
 man mkdir
 man rmdir
-Extra resources:
 
-Linux - /tmp
+**Extra resources:**
+
+- [Linux - /tmp](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/tmp.html)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-technique/), **without the help of Google:**
