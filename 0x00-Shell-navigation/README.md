@@ -26,8 +26,9 @@ man rmdir
 Extra resources:
 
 Linux - /tmp
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-technique/), **without the help of Google:**
 
 ## General
 - How to navigate in an Unix system
