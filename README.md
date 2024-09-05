@@ -97,7 +97,7 @@ What command can you use to see what changes have been staged, which haven’t, 
 ### 0. Create and setup your Git and GitHub account
 
 ### Step 0 - Create an account on GitHub [if you do not have one already]
-You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://intranet.alxswe.com/rltoken/1vpH3ScWYjfgZD0J59jusA)
+You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/)
 
 ### Step 1 - Create a Personal Access Token on Github
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
