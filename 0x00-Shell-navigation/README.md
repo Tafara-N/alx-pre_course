@@ -1,28 +1,31 @@
 Welcome to the Matrix!
 
+![CMatrix](cmatrix.gif)
 
 This project will (probably) be your first experience with an Unix terminal!
 
-For this project, please start and connect to your Sandbox Ubuntu 20.04.
+For this project, please start and connect to your Sandbox `Ubuntu 20.04`.
 
-Resources
-Read or watch:
+# Resources
 
-Linux navigation
-Linux - looking around
-Linux - manipulating files
-Or in your terminal:
+**Read or watch:**
 
-man pwd
-man ls
-man cd
-man less
-man touch
-man cp
-man mv
-man rm
-man mkdir
-man rmdir
+- [Linux navigation](https://linuxcommand.org/lc3_lts0020.php)
+- [Linux - looking around](https://linuxcommand.org/lc3_lts0030.php)
+- [Linux - manipulating files](https://linuxcommand.org/lc3_lts0050.php)
+
+**Or in your terminal:**
+
+- `man pwd`
+- `man ls`
+- `man cd`
+- `man less`
+- `man touch`
+- `man cp`
+- `man mv`
+- `man rm`
+- `man mkdir`
+- `man rmdir`
 
 **Extra resources:**
 
