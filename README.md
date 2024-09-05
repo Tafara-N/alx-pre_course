@@ -160,7 +160,7 @@ root@896cf839cf9a:/# cd `alx-zero_day`/
 root@896cf839cf9a:/`alx-zero_day`#
 ```
 
-- Create the file `README.md` with the content `My first readme`. [Tips](https://intranet.alxswe.com/rltoken/_SSotigVtvVNThTVLJKZPQ)
+- Create the file `README.md` with the content `My first readme`. [Tips](https://forum.howtoforge.com/threads/echo-into-a-file.115/)
 
 ```
 root@896cf839cf9a:/`alx-zero_day`# echo 'My first readme' > README.md
